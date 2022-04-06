@@ -1,4 +1,4 @@
-# Repositório do Desafio de Projeto sobre Git/GitHub da DIO <br>
+# Repositório do Desafio Git/GitHub da DIO <br>
 Repositório criado para o Desafio de Projeto.
 
 Este repositório traz o conteúdo dos vídeos de cada módulo estudado. <br>
