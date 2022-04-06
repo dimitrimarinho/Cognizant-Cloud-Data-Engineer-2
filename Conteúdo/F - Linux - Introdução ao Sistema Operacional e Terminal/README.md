@@ -1,4 +1,4 @@
-## Introdução ao Git e ao GitHub 
+## Linux - Introdução ao Sistema Operacional e Terminal
 Facilitador: Bruno Dias (Instrutor da Digital Innovation One)
 
 * Linux: Introdução ao Sistema Operacional e Terminal
