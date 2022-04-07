@@ -1,4 +1,4 @@
-## 
+## Orquestrando ambientes de Big Data distribuídos com Zookeeper, Yarn e Sqoop
 Facilitador: Rodrigo Garcia (Manager, EY)
 
 * Conhecendo o ambiente do Sqoop
